@@ -18,7 +18,7 @@ We correct the tiled background while preserving the angle of Torre Pendente di 
 # Acknowledgement and Reference
 The methods we use are based on the following papers.
 ```BibTeX
-@INPROCEEDINGS{Content-Aware Rotation,
+@INPROCEEDINGS{CAR,
   author={He, Kaiming and Chang, Huiwen and Sun, Jian},
   booktitle={2013 IEEE International Conference on Computer Vision}, 
   title={Content-Aware Rotation}, 
@@ -28,7 +28,7 @@ The methods we use are based on the following papers.
   pages={553-560},
   doi={10.1109/ICCV.2013.74}}
 
-@ARTICLE{Color Transfer,
+@ARTICLE{Color_Transfer,
   author={Reinhard, E. and Adhikhmin, M. and Gooch, B. and Shirley, P.},
   journal={IEEE Computer Graphics and Applications}, 
   title={Color transfer between images}, 
@@ -38,7 +38,7 @@ The methods we use are based on the following papers.
   pages={34-41},
   doi={10.1109/38.946629}}
 
-@INPROCEEDINGS{Transportation Map Regularization,
+@INPROCEEDINGS{TMR,
   author={Rabin, Julien and Delon, Julie and Gousseau, Yann},
   booktitle={2010 IEEE International Conference on Image Processing}, 
   title={Regularization of transportation maps for color and contrast transfer}, 
