@@ -11,6 +11,7 @@ We correct the tiled background while preserving the angle of Torre Pendente di 
 
 ## Color Transfer
 We adapt the target image’s color tone to match that of the source image. Rather than performing a global color shift, we employ a one-to-one style transfer focused on specified regions.
+
 <img src="https://github.com/PeiChiChen/Digital-Image-Processing-Project/blob/main/image/color.png" height="250px">
 
 ## Transportation Map Regularization
